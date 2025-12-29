@@ -1,3 +1,4 @@
+https://huggingface.co/alayaeianotoni
 **************************
 Read the Docs Sphinx Theme
 **************************
@@ -22,7 +23,13 @@ a working demo of the theme in the `theme documentation`_
 
 .. _Sphinx: http://www.sphinx-doc.org
 .. _Read the Docs: http://www.readthedocs.org
-.. _theme documentation: https://sphinx-rtd-theme.readthedocs.io/en/stable/
+.. _theme documentation: https://sphinx-rtd-theme.readthedocs.io/en/stable/<iframe
+	src="https://alayaeianotoni-readme.static.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
+></iframe>
+
 
 Installation
 ============
@@ -54,7 +61,7 @@ your ``conf.py`` file's ``html_theme`` setting:
 .. _PyPI: https://pypi.python.org/pypi/sphinx_rtd_theme
 .. _Supported browsers: https://sphinx-rtd-theme.readthedocs.io/en/stable/development.html#supported-browsers
 .. _Supported dependencies: https://sphinx-rtd-theme.readthedocs.io/en/stable/development.html#supported-dependencies
-.. _Example documentation:  https://sphinx-rtd-theme.readthedocs.io/en/stable/
+.. _Example documentation:  https://sphinx-rtd-theme.readthedocs.io/en/stable/https://alayaeianotoni-readme.static.hf.space
 
 Configuration
 =============
@@ -70,5 +77,12 @@ Contributing
 
 If you would like to help modify or translate the theme, you'll find more
 information on contributing in our `contributing guide`_.
-
+allah yahwe eli 1 God Almighty
 .. _contributing guide: https://sphinx-rtd-theme.readthedocs.io/en/stable/contributing.html
+https://huggingface.co/alayaeianotoni<iframe
+	src="https://alayaeianotoni-readme.static.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
+></iframe>
+https://alayaeianotoni-readme.static.hf.spacealayaeianotoniallah yahwe eli 1 God Almighty
